@@ -10,7 +10,7 @@
 //   Compile: make
 //   Execute: make test
 //   Purpose: Illustrates a program susceptible to buffer overflow attack.
-
+//
 #include <iostream>
 #include <iomanip>
 
